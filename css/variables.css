@@ -1,0 +1,12 @@
+:root {
+    --red: tomato;
+    --blue: #01BEDA;
+    --green:rgb(165, 245, 45);
+    --purple:#E799C4;
+    --orange:#E49603;
+    --dots:#E9A787;
+    --bordergray:rgb(85, 85, 85);
+    --horizontal-space: 25px;
+    --main-border: 1px solid var(--red);
+    --smalltext: rgb(2, 141, 14);
+}
